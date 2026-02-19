@@ -1,1 +1,4 @@
 # Expense_Tracker_MCP
+
+
+USED FOR TRACKING EXPENSEES USIN MCP
